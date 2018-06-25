@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Завантаження…</string>
+    <string name="no_apps">Немає додатків</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Надати дозвіл wakelock</string>
+    <string name="wakelock_deny_list_category_title">Скасувати дозвіл wakelock</string>
+    <string name="pacifier_title">Заспокоювач</string>
+    <string name="pacifier_analyzing">Аналіз поведінки додатку, будь ласка, перевірте знову пізніше</string>
+    <string name="pacifier_allow_list_category_title">"Дозволити надсилання оповіщень в зупинені і зв'язані додатки"</string>
+    <string name="pacifier_deny_list_category_title">"Заборонити надсилання оповіщень в зупинені і зв'язані додатки"</string>
+    <string name="hibernate_title">Режим глибокого сну</string>
+    <string name="hibernate_allow_list_category_title">Дозволяти додаткам режим глибокого сну, коли екран вимкнено</string>
+    <string name="hibernate_deny_list_category_title">Відкликати додаток з режиму глибокого сну, коли екран вимкнено</string>
+    <string name="hibernate_category_title">Додаткові налаштування режиму глибокого сну</string>
+    <string name="hibernate_wakeup_title">Вихід з режиму сну</string>
+    <string name="hibernate_wakeup_summary">Будити додаток з режиму глибокого сну, коли екран увімкнено</string>
+    <string name="warden_title">Наглядач</string>
+    <string name="warden_allow_list_category_title">Дозволити запуск фонових служб, коли додаток не запущений</string>
+    <string name="warden_deny_list_category_title">Забороняє запуск фонових служб, коли додаток не запущений</string>
+    <string name="warden_category_title">Додаткові налаштування наглядача</string>
+    <string name="warden_force_stop_title">Примусово зупинити</string>
+    <string name="warden_force_stop_summary">Примусово зупиняти додаток при виході</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_action_bar_home_description">Перейти на головний</string>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
+    <string name="abc_action_menu_overflow_description">Інші опції</string>
+    <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_query">Пошуковий запит</string>
+    <string name="abc_searchview_description_clear">Очистити запит</string>
+    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_voice">Голосовий пошук</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
+    <string name="abc_shareactionprovider_share_with_application">Надіслати через %s</string>
+    <string name="abc_shareactionprovider_share_with">Надіслати через</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">УВІМК.</string>
+    <string name="abc_capital_off">ВИМК.</string>
+    <string name="search_menu_title">Пошук</string>
+</resources>

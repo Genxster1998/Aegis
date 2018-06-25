@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Încărcare…</string>
+    <string name="no_apps">Nicio aplicație</string>
+    <string name="action_settings">Setări</string>
+    <string name="wakelock_title">Deblocare</string>
+    <string name="wakelock_allow_list_category_title">Acordați permisiuni deblocare</string>
+    <string name="wakelock_deny_list_category_title">Revocați permisiuni deblocare</string>
+    <string name="pacifier_title">Pacificator</string>
+    <string name="pacifier_analyzing">Analizare funcționalitate aplicații, reveniți mai târziu</string>
+    <string name="pacifier_allow_list_category_title">Permiteți aplicației să trimită legături către aplicații oprite</string>
+    <string name="pacifier_deny_list_category_title">Împiedică trimiterea de legături către aplicații oprite</string>
+    <string name="hibernate_title">Hibernare</string>
+    <string name="hibernate_allow_list_category_title">Când ecranul e stins, aplicația hibernează</string>
+    <string name="hibernate_deny_list_category_title">Când ecranul e stins, aplicația nu hibernează</string>
+    <string name="hibernate_category_title">Hibernează setările avansate</string>
+    <string name="hibernate_wakeup_title">Trezire</string>
+    <string name="hibernate_wakeup_summary">Trezește aplicația când ecranul este aprins</string>
+    <string name="warden_title">Gardian</string>
+    <string name="warden_allow_list_category_title">Permite app să pornească servicii de fundal atunci când nu rulează</string>
+    <string name="warden_deny_list_category_title">Împiedică aplicația să pornească servicii de fundal când aceasta nu rulează</string>
+    <string name="warden_category_title">Setări avansate Gardian</string>
+    <string name="warden_force_stop_title">Oprire forțată</string>
+    <string name="warden_force_stop_summary">Oprirea forțată restricționează aplicația la ieșirea din ea</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți la %s</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="status_bar_notification_info_overflow">˃999</string>
+    <string name="abc_capital_on">ACTIVAȚI</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="search_menu_title">Căutați</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bảo vệ</string>
+    <string name="loading">Đang tải…</string>
+    <string name="no_apps">Không có ứng dụng</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="wakelock_title">Sáng màn hình</string>
+    <string name="wakelock_allow_list_category_title">Cấp quyền truy cập Sáng màn hình</string>
+    <string name="wakelock_deny_list_category_title">Thu hồi quyền truy cập Sáng màn hình</string>
+    <string name="pacifier_title">Sóng dữ liệu</string>
+    <string name="pacifier_analyzing">Phân tích hành vi ứng dụng, hãy kiểm tra xem lại</string>
+    <string name="pacifier_allow_list_category_title">Cho phép các ứng dụng phát sóng dừng lại và liên kết với các ứng dụng</string>
+    <string name="pacifier_deny_list_category_title">Ngăn chặn ứng dụng phát sóng dừng lại và liên kết với các ứng dụng</string>
+    <string name="hibernate_title">Ngủ đông</string>
+    <string name="hibernate_allow_list_category_title">Ngủ đông ứng dụng khi màn hình tắt</string>
+    <string name="hibernate_deny_list_category_title">Không ngủ đông ứng dụng khi màn hình tắt</string>
+    <string name="hibernate_category_title">Cài đặt nâng cao ngủ đông</string>
+    <string name="hibernate_wakeup_title">Đánh thức</string>
+    <string name="hibernate_wakeup_summary">Đánh thức ứng dụng ngủ đông khi màn hình bật</string>
+    <string name="warden_title">Giám sát</string>
+    <string name="warden_allow_list_category_title">Cho phép các ứng dụng để bắt đầu dịch vụ nền khi không chạy</string>
+    <string name="warden_deny_list_category_title">Ngăn không cho ứng dụng bắt đầu dịch vụ nền khi không chạy</string>
+    <string name="warden_category_title">Giám sát cài đặt nâng cao</string>
+    <string name="warden_force_stop_title">Buộc dừng</string>
+    <string name="warden_force_stop_summary">Buộc dừng ngăn chặn ứng dụng bị hạn chế khi thoát</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+</resources>

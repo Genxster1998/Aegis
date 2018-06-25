@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/warden_category_title">
+        <SwitchPreference android:title="@string/warden_force_stop_title" android:key="aegis_warden_force_stop" android:summary="@string/warden_force_stop_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/hibernate_category_title">
+        <SwitchPreference android:title="@string/hibernate_wakeup_title" android:key="aegis_hibernate_wakeup" android:summary="@string/hibernate_wakeup_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

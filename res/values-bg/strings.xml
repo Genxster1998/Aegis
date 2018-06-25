@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Егида</string>
+    <string name="loading">Зареждане…</string>
+    <string name="no_apps">Няма приложения</string>
+    <string name="action_settings">Настройки</string>
+    <string name="wakelock_title">Събуждане</string>
+    <string name="wakelock_allow_list_category_title">Даване на права за Събуждане</string>
+    <string name="wakelock_deny_list_category_title">Отнемане на права за Събуждане</string>
+    <string name="pacifier_title">Биберон</string>
+    <string name="pacifier_analyzing">Анализ на поведението на приложението. Моля, проверете по-късно</string>
+    <string name="pacifier_allow_list_category_title">Разреши на приложението да изпраща сигнал към спрени и свързани приложения</string>
+    <string name="pacifier_deny_list_category_title">Забрани на приложението да изпраща сигнал към спрени и свързани приложения</string>
+    <string name="hibernate_title">Хибернация</string>
+    <string name="hibernate_allow_list_category_title">Хибернация на приложението при изключване на екрана</string>
+    <string name="hibernate_deny_list_category_title">Без хибернация при изключване на екрана</string>
+    <string name="hibernate_category_title">Разширени настройки на хибернация</string>
+    <string name="hibernate_wakeup_title">Събуждане</string>
+    <string name="hibernate_wakeup_summary">Събуди приспаните приложения при включване на екрана</string>
+    <string name="warden_title">Надзирател</string>
+    <string name="warden_allow_list_category_title">Разреши на приложението да стартира процеси във фонов режим, когато не работи</string>
+    <string name="warden_deny_list_category_title">Не позволявай на приложението да стартира процеси във фонов режим, когато не работи</string>
+    <string name="warden_category_title">Разширени настройки на Надзирател</string>
+    <string name="warden_force_stop_title">Принудително спиране</string>
+    <string name="warden_force_stop_summary">Спри принудително ограничените приложения при излизане</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_action_bar_home_description">Придвижване към „Начало“</string>
+    <string name="abc_action_bar_up_description">Придвижване нагоре</string>
+    <string name="abc_action_menu_overflow_description">Още опции</string>
+    <string name="abc_toolbar_collapse_description">Свиване</string>
+    <string name="abc_action_bar_home_description_format">„%1$s“ – %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">„%1$s“, „%2$s“ – %3$s</string>
+    <string name="abc_searchview_description_search">Търсене</string>
+    <string name="abc_search_hint">Търсете…</string>
+    <string name="abc_searchview_description_query">Заявка за търсене</string>
+    <string name="abc_searchview_description_clear">Изчистване на заявката</string>
+    <string name="abc_searchview_description_submit">Изпращане на заявката</string>
+    <string name="abc_searchview_description_voice">Гласово търсене</string>
+    <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
+    <string name="abc_activity_chooser_view_see_all">Вижте всички</string>
+    <string name="abc_shareactionprovider_share_with_application">Споделяне със: %s</string>
+    <string name="abc_shareactionprovider_share_with">Споделяне със:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_capital_off">ИЗКЛ.</string>
+    <string name="search_menu_title">Търсене</string>
+</resources>
